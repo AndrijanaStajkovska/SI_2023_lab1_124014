@@ -1,0 +1,37 @@
+commit 05067b303cd48c0ea1ba6b8d17b7d653365ae1c3 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Andrijana Stajkovska <andrijana_stajkovska@hotmail.com>
+Date:   Sat Apr 8 15:56:05 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b2e624d6c579b1b97a84a34aa3f8758d2b5be841
+Merge: b7166c2 d72ed8b
+Author: Andrijana Stajkovska <andrijana_stajkovska@hotmail.com>
+Date:   Sat Apr 8 15:57:14 2023 +0200
+
+    Merge branch 'bug2'
+
+commit d72ed8b7fd053c9bdaa6a4b23b9d6480df7c144e (origin/bug2, bug2)
+Author: Andrijana Stajkovska <andrijana_stajkovska@hotmail.com>
+Date:   Sat Apr 8 15:55:09 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit b7166c26666f8c0558fddab2a9b1545f49e9265a (origin/bug1, bug1)
+Author: Andrijana Stajkovska <andrijana_stajkovska@hotmail.com>
+Date:   Sat Apr 8 15:54:05 2023 +0200
+
+    Fix wrong loop for reading
+
+commit dd81788811b770015a63a7cb6eeb8fd624452631
+Author: Andrijana Stajkovska <andrijana_stajkovska@hotmail.com>
+Date:   Sat Apr 8 15:51:41 2023 +0200
+
+    Add java class
+
+commit 4c08ddb4b40309cd08e14df0a75c3f4739fe39d5
+Author: Andrijana Stajkovska <andrijana_stajkovska@hotmail.com>
+Date:   Sat Apr 8 15:50:45 2023 +0200
+
+    Initial commit
+
